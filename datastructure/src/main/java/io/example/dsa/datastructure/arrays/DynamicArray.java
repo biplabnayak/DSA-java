@@ -1,4 +1,4 @@
-package io.example.dsa.datastructure;
+package io.example.dsa.datastructure.arrays;
 
 /**
  *
