@@ -27,7 +27,7 @@ public class ReverseLinkedList {
             prev = node;
             node = node.next;
         }
-
+        return rl;
     }
 
     private static class Node {
